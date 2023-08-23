@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+
+.text{
+    @apply  text-[14px] font-popin font-normal ;
+}
+@layer components{
+    .btn{
+        @apply bg-[#EDA415] font-popin text-[14px] rounded-full px-10 py-2;
+    }
+}
+@tailwind utilities;

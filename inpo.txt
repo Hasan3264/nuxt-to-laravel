@@ -1,0 +1,14 @@
+1.to start vue app,
+goto inside vueapp folder then git bash then run this command "npm run dev"
+
+2.to start laravel app 
+ goto laravelapp folder thet git bash then run this command "php artisan ser"
+
+3.run xampp also.
+
+4.db was given.
+thenks
+
+importent: use hosted images when want to upload product.
+
+thanks 
